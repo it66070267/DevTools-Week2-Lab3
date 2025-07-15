@@ -1,1 +1,2 @@
 "Change 1 for file 3" 
+"Change 3 for file 3" 
